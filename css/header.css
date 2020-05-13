@@ -1,0 +1,17 @@
+
+header {
+    grid-area: header;
+    background:url(../Images/flame.jpeg);
+   background-size: contain;
+    padding-top: 100px;
+    text-align: center;
+    overflow: hidden;
+    padding-top: 80px;
+    padding-bottom: 150px;
+    border-radius: 5px;
+}
+
+header .profile-name {
+   color: #EEEBEB;
+   padding-top: 30px;
+ }

@@ -1,0 +1,22 @@
+
+footer {
+    display: flex;
+    flex-direction:initial;
+    background:#1f1e1e;
+    grid-area:ft;
+    color: goldenrod;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+
+footer {
+    width: 100%;
+    min-height: 30px;
+    padding: 20px 0 40px 20px;
+}
+
+footer .copyright {
+    top: -8px;
+    margin-right: 20px;
+    font-size: .75em;
+}
